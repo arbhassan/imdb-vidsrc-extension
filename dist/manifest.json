@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "IMDb to Vidsrc.to Link Generator",
+  "version": "1.0",
+  "description": "Generate Vidsrc.to links from IMDb movie pages",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
